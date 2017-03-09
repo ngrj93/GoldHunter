@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>img/img1.png</ImageUrl>
+    <NavigateUrl>https://www.google.co.in/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=data%20mining</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>img/img2.jpg</ImageUrl>
+    <NavigateUrl>http://www.amazon.in/Data-Mining-Concepts-Techniques-Management/dp/0123814790</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>img/img3.png</ImageUrl>
+    <NavigateUrl>http://www.paypal.com</NavigateUrl>
+  </Ad>
+</Advertisements>

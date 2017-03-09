@@ -1,0 +1,5 @@
+c:\users\nagaraj\documents\visual studio 2012\Projects\GoldHunterSP\GoldHunterSP\obj\Debug\GoldHunterSP.csprojResolveAssemblyReference.cache
+c:\users\nagaraj\documents\visual studio 2012\Projects\GoldHunterSP\GoldHunterSP\bin\GoldHunterSP.dll
+c:\users\nagaraj\documents\visual studio 2012\Projects\GoldHunterSP\GoldHunterSP\bin\GoldHunterSP.pdb
+c:\users\nagaraj\documents\visual studio 2012\Projects\GoldHunterSP\GoldHunterSP\obj\Debug\GoldHunterSP.dll
+c:\users\nagaraj\documents\visual studio 2012\Projects\GoldHunterSP\GoldHunterSP\obj\Debug\GoldHunterSP.pdb
